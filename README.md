@@ -5,6 +5,8 @@ Android GridView
 
 GridView is a ViewGroup that displays items in a two-dimensional, scrollable grid. The grid items are automatically inserted to the layout using a ListAdapter.
 
+This example is bad because we are doing the customization (component of the gridview) in only one activity. It's much better if you create an xml file.
+
 [GridView android dev](https://developer.android.com/reference/android/widget/GridView.html)
 
 ###MainActivity
