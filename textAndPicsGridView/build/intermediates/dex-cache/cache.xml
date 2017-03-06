@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_df38f8cd1a28f9f13ad2c1e6710cd0918bd931e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7da00ebc0c8d7ad1121d556478d5eb1ad1ced6a0">
+        <dex dex="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c50f1feff3156716a4f89ce907a7e151d8257952/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_a13c69142fe9888587d60d4f82facbca837ed826/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_bf974f1f798dc4b3176bf9aef120ff15dcda7864/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b08f6532f22a433b12a54cf5fff04ef0434a94f">
+        <dex dex="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7ca1a1ba1b550a5e0e4be31ac539795f96fa29c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665edaf2d414d1c5e822eae147c679f60daaadc7">
+        <dex dex="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_43fad21a79624f915cb0ed63b3b3479c32b75bed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_a17ec2f68ee3ffcdb06d5adf65aaf1e4920b8ae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_8c0d06ff2db06042feff922b7327601bae82abf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_a849b339abfc8d712f0c542c16eda29b860e566c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_eb861184756ef7409587e21a740bea13ec1f9dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bsparanoid/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_fca536f22a7fb74292b9b00358fae28080e01c7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_e7f5f9ef8685bf89f9c2986f897400d24e6b39ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/bsparanoid/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_a4f33b3ef884fdf5c329629ca48b5d2fe4d50711/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/bsparanoid/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_fad09afd9284b98f0a22812604e024d9b256e741/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/bsparanoid/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_54ce13700bbf381f5bdce6856a46091e94459c28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_4e24db731e45e380cefd23fc7d71cde02a21057f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/bsparanoid/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_fdf57271e4f79508ac8554cd6de7a2e3487733a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_e8ca4e776af2b260e07f00ef6ec1ae2a57b5594c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/bsparanoid/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_281bd2c2a2da8caaadcd0d1345ec5c8158721d71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_5cd633978e3353720d47f10561b08b49ec89f247/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/bsparanoid/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_6876c1dd6f09bc0f0b7d7b64e1df0a78d56cb21b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_c21f0a04feda5f17dc7aa96ada468f431b0d40bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="96bb070048fd77efaf4052b29379dcccc8465dbb">
+        <dex dex="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3f58e70e6f5cf6b6e8c8525a7f96d8f3aaf6431c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_02fabf9babce0ead1bc06e7325975331f79223d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/SimpleGridView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7279c4a51a681d301d3706790253c0010b5258b1">
+        <dex dex="/home/bsparanoid/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1580935b64c3e24931c08813b49ba013303024d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/bsparanoid/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_e3fccce251a4a245a75e9dfaade3110dbec9e591/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/bsparanoid/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_f610518b7f0527221bf8d8e674e372c9901fa127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_bb572b12ebaa35218fb04135009f1c19a3d354fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/SimpleGridView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="671fc661f1b12c20e11bcc8a0f29b1fd3a09e865">
+        <dex dex="/home/bsparanoid/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_56df7a131436e7872e102d881610e061fcdfb22f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_df1a81c6c9c96f66e79c91dc0679a7fb67f89534/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/bsparanoid/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_d55c97d605d3763b7758401ccc781be0042d01cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_7ce5363149915e21304e9f7763837491e4704c2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/bsparanoid/github/GridView/SimpleGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_6aee129d50bbbfd87e5c746c2b1c9ed46fa3d8ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_71331c9dd62962f1097c5e661ae50a8f03a98bd7/classes.dex" />
+    </item>
+
+</items>
