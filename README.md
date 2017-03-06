@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity
         android:numColumns="auto_fit"/>
 </RelativeLayout>
 ```
-
+![alt tag](https://github.com/BsParanoid/GridView/blob/master/screenshots/grid.png)
 
 ###ImageAdapter
 ```java
