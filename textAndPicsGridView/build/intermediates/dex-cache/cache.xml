@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7da00ebc0c8d7ad1121d556478d5eb1ad1ced6a0">
+        sha1="df822a2d1724a754f83fabd66ff8db8c2287c0f3">
         <dex dex="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c50f1feff3156716a4f89ce907a7e151d8257952/classes.dex" />
     </item>
     <item
@@ -52,7 +52,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="665edaf2d414d1c5e822eae147c679f60daaadc7">
+        sha1="cba5c480640e5b414dbeb2fd39f23b4345be84cd">
         <dex dex="/home/bsparanoid/github/GridView/textAndPicsGridView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_43fad21a79624f915cb0ed63b3b3479c32b75bed/classes.dex" />
     </item>
     <item
