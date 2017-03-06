@@ -121,6 +121,7 @@ public class ImageAdapter extends BaseAdapter {
 
 #2. GridView text & pics
 
+###MainActivity
 ```java
 public class MainActivity extends AppCompatActivity
 {
@@ -184,4 +185,32 @@ public class MainActivity extends AppCompatActivity
         });
     }
 }
+```
+
+###activity_main
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.github.bsparanoid.simplegridview.MainActivity">
+
+    <GridView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/simpleGrid"
+        android:columnWidth="90dp"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:stretchMode="columnWidth"
+        android:gravity="center"
+        android:numColumns="auto_fit"/>
+
+</RelativeLayout>
 ```
