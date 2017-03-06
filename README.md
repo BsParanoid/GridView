@@ -116,5 +116,4 @@ public class ImageAdapter extends BaseAdapter {
     };
 }
 ```
-
-
+![alt tag](https://github.com/BsParanoid/GridView/blob/master/screenshots/gridPics.png)
