@@ -214,3 +214,83 @@ public class MainActivity extends AppCompatActivity
 
 </RelativeLayout>
 ```
+
+###ImageAdapter
+```java
+public class ImageAdapter extends BaseAdapter {
+    private Context _Context;
+    private final String[] _descriptionText;
+    private final Integer[] _Imageid;
+
+    // Constructor
+    public ImageAdapter(Context c, String[] descriptionText, Integer[] Imageid) {
+        _Context = c;
+        _descriptionText = descriptionText;
+        _Imageid = Imageid;
+    }
+
+    public int getCount() {
+        return _Imageid.length;
+    }
+
+    public Object getItem(int position) {
+        return null;
+    }
+
+    public long getItemId(int position) {
+        return 0;
+    }
+
+    // create a new ImageView for each item referenced by the Adapter
+    public View getView(int position, View convertView, ViewGroup parent)
+    {
+        View grid;
+        LayoutInflater inflater = (LayoutInflater) _Context
+                .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+
+        if (convertView == null) {
+
+            grid = new View(_Context);
+            grid = inflater.inflate(R.layout.component_of_grid, null);
+            TextView textView = (TextView) grid.findViewById(R.id.grid_text);
+            ImageView imageView = (ImageView)grid.findViewById(R.id.grid_image);
+            textView.setText(_descriptionText[position]);
+            imageView.setImageResource(_Imageid[position]);
+        } else {
+            grid = (View) convertView;
+        }
+        return grid;
+    }
+}
+```
+###component_of_grid
+
+```xml
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/grid_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:layout_below="@+id/grid_image"
+        android:layout_centerHorizontal="true"
+        android:textSize="9sp"
+        android:layout_weight="4.30">
+    </TextView>
+
+    <ImageView
+        android:id="@+id/grid_image"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true">
+    </ImageView>
+
+</RelativeLayout>
+```
+
