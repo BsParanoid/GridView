@@ -293,4 +293,7 @@ public class ImageAdapter extends BaseAdapter {
 
 </RelativeLayout>
 ```
+![alt tag](https://github.com/BsParanoid/GridView/blob/master/screenshots/component_of_grid.png)
 
+
+![alt tag](https://github.com/BsParanoid/GridView/blob/master/screenshots/mainActivity.png)
